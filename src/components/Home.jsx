@@ -24,7 +24,7 @@ function Home() {
       <header className="navbar">
         <a className="brand" href="#home" aria-label="Nova home">
           <span className="brand-mark">N</span>
-          Novaaaaaa
+          Novbbbbbbbbbb
         </a>
 
         <nav aria-label="Main navigation">
